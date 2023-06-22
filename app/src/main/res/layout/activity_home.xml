@@ -32,7 +32,7 @@
         />
     <Button
         android:id="@+id/buttonhoteles"
-        android:backgroundTint="@color/green"
+        android:background="@drawable/botonredondo"
         android:text="hoteles"
         android:layout_marginHorizontal="20dp"
         android:layout_width="match_parent"
@@ -45,7 +45,7 @@
         />
     <Button
         android:id="@+id/buttonrestaurantes"
-        android:backgroundTint="@color/green"
+        android:background="@drawable/botonredondo"
         android:text="restaurantes"
         android:layout_marginHorizontal="20dp"
         android:layout_width="match_parent"
@@ -58,8 +58,8 @@
         />
     <Button
         android:id="@+id/buttonlugares"
-        android:backgroundTint="@color/green"
-        android:text="restaurantes"
+        android:background="@drawable/botonredondo"
+        android:text="sitios"
         android:layout_marginHorizontal="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
